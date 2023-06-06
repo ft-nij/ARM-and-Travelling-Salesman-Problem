@@ -1,5 +1,5 @@
 # Видео с демонстрацией творческой работы:
-https://youtu.be/h6d5cjf27aA
+# https://youtu.be/h6d5cjf27aA
 # ARM and Travelling Salesman Problem
 # Отчёт по теме "Творческая работа за 2 семестр"
 # Автоматизированное рабочее место
