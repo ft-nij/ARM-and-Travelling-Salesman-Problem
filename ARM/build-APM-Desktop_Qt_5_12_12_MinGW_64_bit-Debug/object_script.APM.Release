@@ -1,0 +1,16 @@
+release/auto.o
+release/bd.o
+release/catalog.o
+release/info.o
+release/main.o
+release/mainwindow.o
+release/register.o
+release/sotrudnik.o
+release/qrc_resource.o
+release/moc_auto.o
+release/moc_bd.o
+release/moc_catalog.o
+release/moc_info.o
+release/moc_mainwindow.o
+release/moc_register.o
+release/moc_sotrudnik.o

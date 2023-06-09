@@ -1,0 +1,16 @@
+debug/auto.o
+debug/bd.o
+debug/catalog.o
+debug/info.o
+debug/main.o
+debug/mainwindow.o
+debug/register.o
+debug/sotrudnik.o
+debug/qrc_resource.o
+debug/moc_auto.o
+debug/moc_bd.o
+debug/moc_catalog.o
+debug/moc_info.o
+debug/moc_mainwindow.o
+debug/moc_register.o
+debug/moc_sotrudnik.o
